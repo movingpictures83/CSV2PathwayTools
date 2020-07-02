@@ -1,0 +1,2 @@
+Prefix plugins/CSV2PathwayTools/example
+Plugin CSV2PathwayTools inputfile myfiles.txt outputfile metab.noa
